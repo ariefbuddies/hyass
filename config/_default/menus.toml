@@ -12,3 +12,9 @@
   name = "Twitter"
   url = "https://twitter.com/henkverlinde"
   weight = 30
+
+[[social]]
+  name = "Instagram"
+  url = "https://instagram.com/ariefbuddies"
+  weight = 40
+
