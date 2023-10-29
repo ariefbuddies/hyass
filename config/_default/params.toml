@@ -11,12 +11,12 @@ images = ["cover.png"]
 
   # Navbar
   navbarSticky = true # true (default) or false
-  containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
+  containerBreakpoint = "fluid" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
   navBarButton = true # false (default) or true
   navBarButtonUrl = "/docs/prologue/introduction/"
-  navBarButtonText = "Mulaiiiii!!!"
+  navBarButtonText = "Mulai"
 
   # FlexSearch
   flexSearch = false # true (default) or false
@@ -27,7 +27,7 @@ images = ["cover.png"]
 
   ## Search results
   showDate = false # false (default) or true
-  showSummary = true # true (default) or false
+  showSummary = false # true (default) or false
   searchLimit = 99 # 0 (no limit, default) or natural number
 
   # Global alert
@@ -39,9 +39,9 @@ images = ["cover.png"]
 
   # Nav
   sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
-  toTopButton = false # false (default) or true
+  toTopButton = true # false (default) or true
   breadcrumbTrail = false # false (default) or true
-  headlineHash = true # true (default) or false
+  headlineHash = false # true (default) or false
   scrollSpy = true # true (default) or false
 
   # Multilingual
@@ -57,7 +57,7 @@ images = ["cover.png"]
   backgroundDots = false # true (default) or false
 
   # Homepage
-  sectionFooter = true # false (default) or true
+  sectionFooter = false # false (default) or true
 
   # Blog
   relatedPosts = false # false (default) or true
