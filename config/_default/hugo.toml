@@ -1,4 +1,4 @@
-title = "My Docs"
+title = "My BraDocs"
 baseurl = "/"
 canonifyURLs = false
 disableAliases = true
@@ -85,5 +85,5 @@ rel  = "sitemap"
   anchor = "Smart"
   bgColor = "#ffffff"
   hint = "photo"
-  quality = 75
+  quality = 55
   resampleFilter = "Box"
