@@ -1,5 +1,5 @@
 ---
-title: "Penginapan"
+title: "penginapan"
 description: ""
 summary: ""
 date: 2023-09-07T16:21:44+02:00
@@ -18,4 +18,4 @@ seo:
   noindex: false # false (default) or true
 ---
 
-### WTF PENGINAPAN!!!
+### WTF!!! Penginapan
