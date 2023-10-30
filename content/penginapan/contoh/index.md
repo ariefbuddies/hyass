@@ -18,8 +18,6 @@ seo:
   noindex: false # false (default) or true
 ---
 
-    
-# <center>Sewa Mobil Jogj:a:</center> 
 ## Daftar Mobil :construction: 
 ## All New Avanza :a:utomatic:love_letter: 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=200&radius=20&force_format=png&#center)
