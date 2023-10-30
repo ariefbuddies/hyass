@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 copyRight = "Copyright (c) 2023 Hyas"
 
 [build.buildStats]
-  enable = falae
+  enable = false
 
 [social]
   twitter = "getdoks"
