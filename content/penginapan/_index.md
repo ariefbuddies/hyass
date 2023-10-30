@@ -18,4 +18,3 @@ seo:
   noindex: false # false (default) or true
 ---
 
-### WTF!!! Penginapan
