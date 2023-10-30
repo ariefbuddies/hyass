@@ -18,3 +18,11 @@ seo:
   noindex: false # false (default) or true
 ---
 
+## Daftar Mobil :construction: 
+## All New Avanza :a:utomatic:love_letter: 
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=200&radius=20&force_format=png&#center)
+### Lepas :key: 
+    
+> * 12 Jam 250 rb
+> * 24 Jam 300 rb
+### Mobil :heavy_plus_sign: Driver
