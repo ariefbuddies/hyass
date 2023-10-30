@@ -18,7 +18,5 @@ seo:
   noindex: false # false (default) or true
 ---
 
-## Daftar Mobil :construction: 
-## All New Avanza :a:utomatic:love_letter: 
 
     
