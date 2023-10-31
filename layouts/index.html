@@ -53,7 +53,19 @@
       <h2 class="mt-2">Start building with Doks today</h2>
       <a class="btn btn-primary rounded-pill px-4 my-2" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get-started" }}</a>
     </div>
-    <div style="overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="my-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Bening+Abadi+Trans,+Samirono,+Caturtunggal,+Sleman+Regency,+Special+Region+of+Yogyakarta,+Indonesia&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" rel="nofollow" href="https://www.bootstrapskins.com/themes" id="inject-map-data">premium bootstrap themes</a><style>#my-map-display img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
+   <div id="wrapper-9cd199b9cc5410cd3b1ad21cab2e54d3">
+		<div id="map-9cd199b9cc5410cd3b1ad21cab2e54d3"></div><script>(function () {
+        var setting = {"query":"Bening Abadi Trans, Samirono, Caturtunggal, Sleman Regency, Special Region of Yogyakarta, Indonesia","width":394,"height":410,"satellite":false,"zoom":18,"placeId":"ChIJWTe2FclZei4RlxHyCyEnR0Y","cid":"0x464727210bf21197","coords":[-7.7774112,110.3822566],"lang":"en","queryString":"Bening Abadi Trans, Samirono, Caturtunggal, Sleman Regency, Special Region of Yogyakarta, Indonesia","centerCoord":[-7.7774112,110.3822566],"id":"map-9cd199b9cc5410cd3b1ad21cab2e54d3","embed_id":"1022521"};
+        var d = document;
+        var s = d.createElement('script');
+        s.src = 'https://1map.com/js/script-for-user.js?embed_id=1022521';
+        s.async = true;
+        s.onload = function (e) {
+          window.OneMap.initMap(setting)
+        };
+        var to = d.getElementsByTagName('script')[0];
+        to.parentNode.insertBefore(s, to);
+      })();</script><a href="https://1map.com/map-embed">1 Map</a></div>
   </div>
 </section>
 {{ end -}}
