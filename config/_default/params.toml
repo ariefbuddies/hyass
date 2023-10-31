@@ -16,7 +16,7 @@ images = ["cover.png"]
   ## Button
   navBarButton = true # false (default) or true
   navBarButtonUrl = "/docs/prologue/introduction/"
-  navBarButtonText = ""
+  navBarButtonText = "FUCKKKK"
 
   # FlexSearch
   flexSearch = true # true (default) or false
@@ -57,7 +57,7 @@ images = ["cover.png"]
   backgroundDots = false # true (default) or false
 
   # Homepage
-  sectionFooter = false # false (default) or true
+  sectionFooter = true # false (default) or true
 
   # Blog
   relatedPosts = false # false (default) or true
