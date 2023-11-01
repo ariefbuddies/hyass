@@ -42,7 +42,7 @@ images = ["cover.png"]
   toTopButton = true # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = false # true (default) or false
-  scrollSpy =  # true (default) or false
+  scrollSpy = false # true (default) or false
 
   # Multilingual
   multilingualMode = false # false (default) or true
