@@ -26,14 +26,14 @@ seo:
 
 ## WULING AIR EV LR(new)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key:
-> 🏚️
-> # 6 Jam ==350 rb!!!==
+# Lepas :key:
+> 
+> # 6 Jam <mark>50 rb!!!</mark>
 > ## Per Day ==450 rb!!!!==
 
 ---
 
-## All New Honda Brio M:a:tic
+## 🅰️ll New Honda Brio Matic
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
