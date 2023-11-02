@@ -20,14 +20,14 @@ seo:
 
 
     
-# Sewa Mobil Jogja IstimeW:a:h&#10024;☔
+# Sewa Mobil Jogja IstimeW:a:h&#10024;☔ 🏚️
 
 # Daftar Mobil Bening Abadi Trans
 
 ## WULING AIR EV LR(new)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key:
-> 
+> 🏚️
 > * 6 Jam ==350 rb!!!==
 > * Per Day ==450 rb!!!!==
 
