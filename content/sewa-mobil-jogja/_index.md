@@ -10,7 +10,7 @@ categories: []
 tags: []
 contributors: []
 pinned: false
-homepage: false
+homepage: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
@@ -27,7 +27,7 @@ seo:
 ## WULING AIR EV LR(new)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key:
-> [color=#07ef58]
+> 
 > * 6 Jam ==350 rb!!!==
 > * Per Day ==450 rb!!!!==
 
