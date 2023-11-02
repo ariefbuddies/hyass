@@ -37,16 +37,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==275 rb==
 > * 24 Jam ==325 rb==
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+> 
 > * Perhari ==Call/WA==
 ---
 
@@ -54,16 +54,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key:
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==250 rb==
 > * 24 Jam ==300 rb== 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+>
 > * Perhari ==Call/WA==
 ---
 
@@ -71,16 +71,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key:
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==275 rb==
 > * 24 Jam ==325 rb== 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+> 
 > * Perhari ==Call/WA==
     
 ---
@@ -89,16 +89,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==275 rb==
 > * 24 Jam ==325 rb==
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+> 
 > * Perhari ==Call/WA==
 ---
 
@@ -106,16 +106,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> [color=#07ef58] 
+>  
 > * 12 Jam ==275 rb==
 > * 24 Jam ==325 rb==
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+>
 > * Perhari ==Call/WA==
 ---
 
@@ -123,17 +123,17 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==250 rb==
 > * 24 Jam ==300 rb==
 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+> 
 > * Perhari ==Call/WA==
 ---
 
@@ -142,16 +142,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/agya.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==225 rb==
 > * 24 Jam ==275 rb==
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+> 
 > * Perhari ==Call/WA==
 ---
 
@@ -159,16 +159,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/calya-matic-2016.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==250 rb==
 > * 24 Jam ==300 rb==
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+> 
 > * Perhari ==Call/WA==
 ---
 
@@ -176,16 +176,16 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5b0bed6990b95.webp?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> [color=#07ef58] 
+> 
 > * 12 Jam ==200 rb==
 > * 24 Jam ==250 rb==
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
-> [color=#ce108c]
+> 
 > * Perhari ==Call/WA==
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
-> [color=#e3ff33]
+> 
 > * Perhari ==Call/WA==
 ---
 
