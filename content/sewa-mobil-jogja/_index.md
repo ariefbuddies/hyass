@@ -28,8 +28,8 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
 # Lepas :key:
 > 
-> # 6 Jam <mark>50 rb!!!</mark>
-> ## Per Day ==450 rb!!!!==
+# > 6 Jam <mark>350 rb!!!</mark>
+# > Per Day ==450 rb!!!!==
 
 ---
 
