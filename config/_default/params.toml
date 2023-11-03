@@ -86,7 +86,7 @@ images = ["cover.png"]
 
   [doks.menu]
     [doks.menu.section]
-      auto = auto # true (default) or false
+      auto = true # true (default) or false
       collapsibleSidebar = true # true (default) or false
 
 # Debug
