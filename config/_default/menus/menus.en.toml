@@ -40,7 +40,7 @@
 #  weight = 30
 
 [[main]]
-  name = "Penginapan"
+  name = "Penginapan🏡"
   url = "/penginapan/"
   weight = 40
 
@@ -50,7 +50,7 @@
   weight = 50
 
    [[main]]
-  name = "Rental Motor Jogja"
+  name = "Rental Motor Jogja🛵"
   url = "/rental-motor-jogja/"
   weight = 60
 
