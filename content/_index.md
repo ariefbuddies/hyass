@@ -18,10 +18,10 @@ seo:
 
 ## WULING AIR EV LR(new)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
-# Lepas :key:
+# <u>Lepas Kunci</u> :key:
 
 
-# <mark><u>6 Jam</u></mark>  <mark>350k</mark>
+# <mark>6 Jam</mark> <mark>350k</mark>
 # PerDay 450k
 
 ---
