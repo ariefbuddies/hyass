@@ -11,10 +11,10 @@ images = [""]
 
   # Navbar
   navbarSticky = true # true (default) or false
-  containerBreakpoint = "sm" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
+  containerBreakpoint = "fluid" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
-  navBarButton = false # false (default) or true
+  navBarButton = true # false (default) or true
   navBarButtonUrl = "/docs/prologue/introduction/"
   navBarButtonText = "FVCK"
 
@@ -38,7 +38,7 @@ images = [""]
   bootstrapJavascript = true # false (default) or true
 
   # Nav
-  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["guides"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = true # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false
