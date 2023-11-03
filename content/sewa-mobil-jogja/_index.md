@@ -28,10 +28,10 @@ seo:
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
 # Lepas :key:
 
-| Durasi 	| Harga 	|
-|---	|---	|
-| 6 Jam 	| 350k 	|
-| PerDay 	| 450k 	|
+# | Durasi 	| Harga 	|
+# |---	|---	|
+# | 6 Jam 	| 350k 	|
+# | PerDay 	| 450k 	|
 
 ---
 
