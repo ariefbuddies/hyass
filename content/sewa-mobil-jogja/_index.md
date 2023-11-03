@@ -30,7 +30,7 @@ seo:
 
 | Durasi 	| Harga 	|
 |---	|---	|
-| <mark>++6 Jam 	| 350k++</mark> 	|
+| <mark>++6 Jam++</mark> 	| <mark>350k</mark> 	|
 | PerDay 	| 450k 	|
 
 ---
