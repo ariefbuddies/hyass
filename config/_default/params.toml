@@ -1,7 +1,7 @@
 # Hugo
 title = "Sewa Mobil Jogja Bening Abadi Transport"
 description = "Sewa Mobil Jogja"
-images = [""]
+images = ["cover.png"]
 
 # Doks (@hyas/doks-core)
 [doks]
