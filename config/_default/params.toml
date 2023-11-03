@@ -1,7 +1,7 @@
 # Hugo
 title = "Sewa Mobil Jogja Bening Abadi Transport"
 description = "Sewa Mobil Jogja "
-images = ["cover.png"]
+images = [""]
 
 # Doks (@hyas/doks-core)
 [doks]
@@ -11,7 +11,7 @@ images = ["cover.png"]
 
   # Navbar
   navbarSticky = true # true (default) or false
-  containerBreakpoint = "xxl" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
+  containerBreakpoint = "sm" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
   navBarButton = false # false (default) or true
