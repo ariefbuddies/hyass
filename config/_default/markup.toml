@@ -4,7 +4,7 @@ defaultMarkdownHandler = "goldmark"
   [goldmark.extensions]
     linkify = false
   [goldmark.parser]
-    autoHeadingID = true
+    autoHeadingID = false
     autoHeadingIDType = "github"
     [goldmark.parser.attribute]
       block = true
