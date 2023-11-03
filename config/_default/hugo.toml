@@ -1,4 +1,4 @@
-title = "My BraStripes"
+title = "Bening Abadi Transport"
 baseurl = "/"
 canonifyURLs = false
 disableAliases = true
@@ -6,7 +6,7 @@ disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 enableGitInfo = false
-enableRobotsTXT = true
+enableRobotsTXT = false
 languageCode = "en-US"
 paginate = 10
 rssLimit = 10
