@@ -1,5 +1,5 @@
 ---
-title: "Sewa Mobil Jogj🏡a"
+title: "Sewa Mobil Jogja"
 description: ""
 summary: ""
 date: 2023-09-08T16:21:44+02:00
