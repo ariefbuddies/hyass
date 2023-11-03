@@ -1,6 +1,6 @@
 # Hugo
 title = "Sewa Mobil Jogja Bening Abadi Transport"
-description = "Sewa Mobil Jogja "
+description = "Sewa Mobil Jogja"
 images = [""]
 
 # Doks (@hyas/doks-core)
@@ -35,7 +35,7 @@ images = [""]
   alertDismissable = false # true (default) or false
 
   # Bootstrap
-  bootstrapJavascript = true # false (default) or true
+  bootstrapJavascript = false # false (default) or true
 
   # Nav
   sectionNav = ["guides"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
